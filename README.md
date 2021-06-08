@@ -1,5 +1,5 @@
 # high_school_java
-Some of the programs from my high school that I found on my PC. Thought it would be a good idea to upload them on GitHub.
+Some of the programs from my high school that I found on my PC.
 
 1. To execute them, clone the repository onto your local machine.
 2. After cloning, just run the Control.java file using the command "java Control.java" in the command prompt opened in same folder.
